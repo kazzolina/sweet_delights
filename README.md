@@ -36,14 +36,14 @@ Hi! Thanks for agreeing to work on my website. I run a small bakery called “Sw
 
 ### Additional Thoughts
 
-    - I’m not super tech-savvy, so it needs to be easy for me to update the menu and images.
-    - I’d love to include a blog section where I can share recipes or baking tips.
+- I’m not super tech-savvy, so it needs to be easy for me to update the menu and images.
+- I’d love to include a blog section where I can share recipes or baking tips.
 
 ### Inspirations
 
-    - I’ve seen some bakery websites that I love—clean, beautiful images, and easy to read. If you could incorporate some of those ideas, that would be amazing!
+- I’ve seen some bakery websites that I love—clean, beautiful images, and easy to read. If you could incorporate some of those ideas, that would be amazing!
 
 ### Timeline
 
-    - I’d ideally like to launch in the next month, so I hope we can work together to make this happen!
-    - Let me know if you need any more details, or if you have suggestions based on your expertise!
+- I’d ideally like to launch in the next month, so I hope we can work together to make this happen!
+- Let me know if you need any more details, or if you have suggestions based on your expertise!
